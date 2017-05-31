@@ -4,3 +4,8 @@ Author: Yeuk Hon Wong <yeukhon@acm.org>
 Date:   Wed May 31 11:44:41 2017 -0400
 
     Normal commit datetime
+
+
+Now we use
+
+export GIT_AUTHOR_DATE="Wed May 31 12:46:40 2017 +0100"
