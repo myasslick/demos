@@ -9,3 +9,10 @@ Date:   Wed May 31 11:44:41 2017 -0400
 Now we use
 
 export GIT_AUTHOR_DATE="Wed May 31 12:46:40 2017 +0100"
+
+Output>
+commit 422e5b3be3454cfbdb88894c21eaa9e6017741ba
+Author: Yeuk Hon Wong <yeukhon@acm.org>
+Date:   Wed May 31 12:46:40 2017 +0100
+
+    See what happen with export GIT_AUTHOR_DATE='Wed May 31 12:46:40 2017 +0100'
